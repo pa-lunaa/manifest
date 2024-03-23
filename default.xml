@@ -51,4 +51,9 @@
   <include name="aospa.xml"/>
   <include name="obsolete.xml"/>
 
+  <!-- Fork -->
+  <remote  name="fork"
+           fetch="https://github.com/pa-lunaa"
+           revision="uvite" />
+
 </manifest>
